@@ -3,10 +3,9 @@
 
 = Download =
 
-  # [https://drive.google.com/folderview?id=0B_LimAbVq4H_aXZ5Y2JBbEpJRm8&usp=sharing Download folder]
-  # 2D versions: the new [https://docs.google.com/file/d/0B_LimAbVq4H_SkQyNEtGV2tRUnc/edit?usp=sharing 2d6] version or the deprecated ~~[https://docs.google.com/file/d/0B_LimAbVq4H_WEhESkN6ZjZsV1E/edit?usp=sharing 3p4]~~ version
-  # 3D versions: the [https://docs.google.com/file/d/0B_LimAbVq4H_eU1MTEZrRVRnRlk/edit?usp=sharing 3d4] version
-  # Help guide: [https://docs.google.com/file/d/0B_LimAbVq4H_V2JiYUtYTF9RQVU/edit?usp=sharing pdf]
+  # 2D versions: the new [https://adeli.googlecode.com/svn/trunk/2d6.tar.bz2 2d6] version or the deprecated ~~[https://adeli.googlecode.com/svn/trunk/tar_3p4_21_Avril_2005.gz 3p4]~~ version
+  # 3D versions: the [https://adeli.googlecode.com/svn/trunk/tar_3d4_9_octobre_2008.gz 3d4] version
+  # User guide: [https://adeli.googlecode.com/svn/trunk/adeli_user_guide_3p4_3d4_v2.3.pdf pdf]
 
 ----
 
