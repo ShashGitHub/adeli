@@ -1,0 +1,108 @@
+#summary Publications involving Adeli (by authors).
+#labels Featured
+= Peer-reviewed articles =
+
+  * Bachmann, D., Bouissou, S., Chemenda, A., 2009, Analysis of massif fracturing during Deep-Seated Gravitational Slope Deformation by physical and numerical modeling, Geomorphology 103 (2009) 130–135.
+  * Berger, A., F. Jouanne, R. Hassani and J.-L. Mugnier, 2004, Modelling the spatial distribution of present day deformation in Nepal. How cylindrical is the Main Himalayan Thrust in Nepal? Geophys. J. Int., 156(2004), 156(1), 94-114
+  * Bernard et al., 1997, The Ms=6.2, June 15, 1995 Aigion earthquake (Greece): evidence for low angle normal faulting in the Corinth rift, Journal of Seismology, 1(1997), 131-150.
+  * Bethoux, N., E. Tric, J. Chéry, and M. O. Beslier, 2008, Why is the Ligurian Basin (Mediterranean Sea) seismogenic ? Thermomechanical modeling of a reactivated passive margin: Tectonics, v. 27, p. TC5011, doi: 10.1029/2007TC002232.
+  * Bonnardot M.-A., R. Hassani, E. Tric, E. Ruellan and M. Regnier, 2008, Effect of margin curvature on plate deformation in a 3-D numerical model of subduction zones, Geophys. J. Int, 173(3), 1084-1094.
+  * Bonnardot M.-A., R. Hassani and E. Tric, 2008, Numerical Modelling of Lithosphere-Asthenosphere interaction in a Subduction Zone, Earth Planet. Sci. Lett., 272(3-4), 698-708.
+  * Bonnin, M., Tommasi, A., Hassani, R., Chevrot, S., Wookey, J., Barruol, G., 2012, Numerical modelling of the upper mantle anisotropy beneath a migrating strike-slip plate boundary: the San Andreas Fault system, Geophys. J. Int, 191(2012), 436-458.
+  * Boutelier, D.A., Oncke, O., 2010, Role of the plate margin curvature in the plateau buildup: Consequences for the central Andes, J. Geophys. Res., 115, B04402.
+  * Cattin, R., H. Lyon-Caen, and J. Chéry, 1997, Quantification of interplate coupling in subduction zones and forearc topography, Geophys. Res. Lett., 24(1997), 1563-1566.
+  * Cattin et al., 1999, Effects of superficial layers on coseismic displacements  for a dip-slip fault and geophysical implications, Geophys. J. Int., 137(1999), 149-158.
+  * Cattin R. and J.P. Avouac, 2000, Modeling mountain building and the seismic cycle in the Himalaya of Nepal, J. Geophys. Res., 105(2000), 13389-13407.
+  * Cattin, R., Martelet, G., Henry, P., Avouac, J.P., Diament, M. and Shakya, T.R., 2001, Gravity anomalies, crustal structure and thermo-mechanical support of the Himalayas of Central Nepal, Geophys. J. Int., 147(2001), 381-392, 2001.
+  * Cattin, R., Doubre, C., de Chabalier, JB, King, G., Vigny, C., Avouac, JP, Ruegg, JC,  2005, Numerical modelling of quaternary deformation and post-rifting displacement in the Asal-Ghoubbet rift (Djibouti, Africa), Earth Planet. Sc. Lett., 239(2005), 352-367.
+  * Chemenda, A.I., Hurpin, D., Tang, J.-C., Stephan, J.-F., Buffet, G., 2001, Impact of arc-continent collision on the conditions of burial and exhumation of UHP/LT rocks: expérimental and numerical modelling, Tectonophysics 342 (2001) 137–161.
+  * Chéry J. and M.D. Zoback, 1999, 2-dimensional modeling of a Gulf of Mexico salt withdrawal mini-basin: preliminary results, Proceedings of the SRB Conference, Stanford, J2(1-12).
+  * Chéry, J., M.D. Zoback and R. Hassani, 2001, An integrated mechanical model of the San Andreas fault in central and northern California, J. Geophys. Research, 106(2001), No. B10, p. 22051-22066.
+  * Chéry J., 2001, Core complexes mechanics: from Corinth Gulf to Snake Range , Geology, 29(2001), 439-442.
+  * Chéry J., M.D. Zoback, S. Hickman, 2004, A mechanical model of the San Andreas fault and SAFOD pilot hole stress measurements, Geoph. Res. Lett., SAFOD pilot hole special issue, 31(2004), L15S13, doi:10.1029/2004GL019521.
+  * Chéry, J., Geodetic strain across the San Andreas fault reflects elastic plate thickness variations (rather than fault slip rate), Earth Planet. Sci. Lett., 269, 351–364, 2008. 
+  * Conin, M., Henry, P., Godard, V., Bourlange, S., 2012, Splay fault slip in a subduction margin, a new model of évolution, Earth and Planetary Science Letters, 341-344(2012), 170-175.
+  * Gerbault, M., Cappa, F., R. Hassani, 2012, Elasto-plastic and hydromechanical models of failure around an infinitely long magma chamber, Geochem. Geophys. Geosyst., 13(2012), Q03009, doi:10.1029/2011GC003917.
+  * Gibert, G., Gerbault, M., R. Hassani, E. Tric, 2012, Dependency of slab geometry on absolute velocities and conditions for cyclicity: insights from numerical modelling, Geophys. J. Int, 189(2012), 747-760.
+  * Godard, V., Cattin, R. and Lavé, J., 2004, Numerical modeling of mountain building: interplay between erosion law and crustal rheology,  Geophys. Res. Lett., 31(2004), doi:10.1029/2004GL021006.
+  * Godard, V., Lavé, J. and Cattin, R., 2006, Numerical modeling of erosion processes in the Himalayas of Nepal, effects of spatial variation of rock  strength and precipitations, Geological Society London Special Publication.
+  * Got, J.-L., V. Monteiller, J. Monteux, R. Hassani and P. Okubo, 2008, Deformation and rupture of the oceanic crust may control growth of Hawaiian volcanoes, Nature, 451(2008), 453-456.
+  * Hassani, R. and J. Chéry, 1996, Anelasticity explains topography associated with Basin and Range normal faulting, Geology, 24(1996), no. 12, 1095-1098.
+  * Hassani, R., D. Jongmans and J. Chéry, 1997, Study of plate deformation and stress in subduction processes using two-dimensional numerical models, J. Geophys. Research, 102(1997), No. B8, 17951-17965.
+  * Hardacre, K.M., Cowie, P.A., 2003, Variability in fault size scaling due to rock strength heterogeneity: a finite element investigation, Journal of Structural Geology 25 (2003),1735–1750.
+  * He, J., and S. Lu, 2007, Lower friction of the Xianshuihe-Xiaojiang fault system and its effect on active deformation around the southeastern Tibetan margin. Terra Nova, doi:10.1111/j. 1365-3121.2007.00735.x.
+  * He J., J. Chery, 2008, Slip rates of the Altyn Tagh, Kunlun and Karakorum faults (Tibet) from 3D mechanical modelling, Earth Planet. Sci. Lett., 274(2008), 50–58.
+  * Hetényi, H., Cattin, R., Vergne, J. and Nábelek, J.L., 2006, The Effective Elastic Thickness of the India Plate from Receiver Function Imaging, Gravity Anomalies and Thermo-mechanical Modelling, Geophys. J. Int., 167, 1106-1118, doi:10.1111/j.1365-246X.2006.03198.x,.
+  * Holtzman, B. K., 2001, Gauging Stress from deformed chromite pods in the Oman ophiolite, Geological Society of America Special Paper, 80 (2001) 149-160.
+  * Huc, M., R. Hassani and J. Chéry, 1998, Large earthquake nucleation associated with stress exchange between middle crust and upper crust, Geophysical Research Letters, 25(1998), No. 4, 551-554.
+  * Jacob, T, Chéry, J, Boudin,F, Bayer, R, Monitoring deformation from hydrologic processes in a karst aquifer using long baseline tiltmeters, Water Research, 46, W09542, 2010.
+  * Jolivet, R., Cattin, R., Chamot-Rooke, N., Lasserre, C., Peltzer,G., 2008, Thin-plate modeling of interseismic deformation and asymmetry across the Altyn Tagh fault zone, Geophysical Research Letters 35 (2008) DOI: 10.1029/2007GL031511.
+  * Klimczak, C., R. Soliva, R. A. Schultz, and J. Chéry , 2011, Sequential growth of deformation bands in a multilayer sequence, J. Geophys. Res., 116 (2011), B09209, doi:10.1029/2011JB008365.
+  * Lesne, O., E. Calais, J. Déverchère, J. Chéry and R. Hassani, 2000, Dynamics of intracontinental extension in the Northern Baïkal region from two-dimensional numerical deformation modeling, J. Geophys. Research, 105(2000), 21727-21744.
+  * Mazzotti, S., R. D., Hyndman, 2002, Yakutat collision and strain transfer across the northern Canadian Cordillera, Geology, 30 (2002) 495–498.
+  * Neves, S. P., A. Tommasi, A. Vauchez, R. Hassani, 2008, Intraplate continental deformation: Influence of a heat-producing layer in the lithospheric mantle, Earth Planet. Sci. Lett., 274(3-4), 392-400.
+  * Niño F., H. Philip, and J. Chéry, 1998, The role of bed-parallel slip in the formation of blind thrust faults, J. Struct. Geol., 20(1998), 503-516.
+  * Niño F., J. Chéry, and J.P. Gratier, 1998, Mechanical modeling of compressional basins: Origin and interaction of faults, erosion, and subsidence in the Ventura basin, California, Tectonics, 17(1998), 955-972.
+  * Pérouse, E, Vernant, P, Chéry, J, Reilinger, R, McClusky, S, 2010, Active surface deformation and sub-lithospheric processes in the Western Mediterranean constrained by numerical models, Geology, 38(2010), 823-826.
+  * Provost, A.-S., J. Chéry and R. Hassani, 2003, 3D Mechanical Modelling of the GPS Velocity Field Along the North Anatolian Fault, Earth Planet. Sci. Lett., 209/3-4(2003), 361-377.
+  * Provost, A.-S. and J. Chéry, 2006, Relation between effective friction and fault slip rate across the Northern San Andreas fault system, in Analogue and Numerical Modelling of Crustal Scale Processes, Geol. Soc. Special Pub., 253(2006), 429-436.
+  * Savage, M., Tommasi, A., Ellis, S., Chery, J., 2007, Modeling strain and anisotropy along the Alpine fault, South Island, New Zealand. In: Geotectonic Investigation of a Modern Continent-Continent Collisional Orogen: the Southern Alps, NZ. D. Okaya, T. Stern & F. Davey (eds.), American Geophysical Union.
+  * Simoes, M., J. P. Avouac, R. Cattin, and P. Henry (2004), The Sumatra subduction zone: A case for a locked fault zone extending into the mantle, J. Geophys. Res., 109, B10402, doi:10.1029/2003JB002958. 
+  * Steer, P., Cattin, R., Lavé, J. and Godard, V., 2011, Surface Lagrangian Remeshing: a new tool for studying long term evolution of continental lithosphere from 2D numerical modelling, Computers and Geosciences, v. 37(8), 1067-1074, doi:10.1016/j.cageo.2010.05.023.
+  * Tang, J.C.,  Chemenda, A.I., 2000, Numerical modelling of arc–continent collision: application to Taiwan, Tectonophysics 325 (2000) 23–42.
+  * Tang, J.-C., A.I. Chemenda, J. Chéry, S. Lallemand and R. Hassani, 2002, Compressional Subduction Regime and Arc-continent Collision : Numerical modeling, Geol. Soc. Am. Bull. Spec. Pub., 358(2002), 177-186.
+  * Tommasi, A., Vauchez, A., 2001, Continental rifting parallel to ancient collisional belts: an effect of the mechanical anisotropy of the lithospheric mantle, Earth and Planetary Science Letters 185 (2001) 199-210.
+  * Tric E., Lebourg T., Jomard H., Le Cossec J., 2010, Study of large-scale deformation induced by gravity on the La Clapière landslide (Saint-Etienne de Tinée, France) using numerical and geophysical approaches,  Journal of Applied Geophysics, 70(2010), pp.206-215
+  * Vanbrabant, Y., D. Jongmans, R. Hassani and D. Bellino, 1999, An application of two-dimensional finite-element modelling for studying the deformation of the Variscan fold-and-thrust belt (Belgium), Tectonophysics, 309(1999), 141-159.
+  * Vergne, J., Cattin, R., Avouac, J.-P., 2001, On the use of dislocations to model interseismic strain and stress build-up at intracontinental thrust faults, Geophys. J. Int. (2001) 147, 155–162.
+  * Vernant, Ph. and J. Chéry, 2006, Low fault friction in Iran implies localized deformation for the Arabia-eurasia collision zone, Earth Planet. Sci. Lett., 246(2006), 197-206.
+  * Vernant, Ph. and J. Chéry, 2006, Mechanical modelling of oblique convergence in the Zagros, Iran, Geoph. J. Int, 165(2006), 991-1002.
+  * Vernant, P., Hivert, F., Chery, J., Steer, P., Cattin, R., & Rigo, A. , Erosion-induced isostatic rebound triggers extension in low convergent mountain ranges. Geology, 41(4), 467–470. doi:10.1130/G33942.1, 2013.
+  * Wang, J.,  Ye, Z.-R. He, J.-K., 2008, Three-dimensional mechanical modeling of large-scale crustal deformation in China constrained by the GPS velocity field, Tectonophysics, 446 (2008) 51–60.
+
+= PhD thesis =
+
+  * Berger, A., 2004, Propagation de la rupture crustale de l'axe d'un point chaud à la ride océanique: exemple du nord de l'Islande, Thèse de l’Université de Savoie.
+  * Bonnardot, M.-A., 2006, Étude géodynamique de la zone de subduction Tonga-Kermadec par une approche de modélisation numérique 3D et de sismotectonique, Thèse de l’Université de Nice-Sophia Antipolis.
+  * Bonnin, M., 2011, Déformation et anisotropie sismique sous les frontières de plaques décrochantes en domaine continental, Thèse Université de Montpellier 2.
+  * Hassani, R., 1994, Modélisation numérique de la déformation des systèmes géologiques, Thèse, Université de Montpellier 2.
+  * Huc, M., 1997, Modélisation du cycle sismique par la méthode des éléments finis, Université de Montpellier 2.
+  * Lesne, O., 1999, Dynamique de l'extension intracontinentale dans le rift Baikal (Siberie) : Apport de mesures GPS et modèles numériques, These, Université Paris 6.
+  * Messager, G., 2010, Signatures géomorphologiques de l’activité tectonique plio-quartenaire dans le sud des Andes Centrales, Argentine, Thèse Université de Pau et des Pays de l’Adour.
+  * Nino, F., 1997, Modélisation numérique de la déformation localisée et de l’activité tectonique des failles, Université de Montpellier 2.
+  * Oveisi, B., 2007, Rates and processes of active folding in the central Zagros – IRAN, Thèse Université Joseph Fourier, Grenoble.
+  * Steer, Ph., 2010, Surface processes and déformation in orogenic settings: quantification and modelling, Thèse Université Paris-Sud 11.
+  * Tang, J.-C., 2000, Modélisation numérique de l’initiation de la collision arc-continent : application à Taiwan, Thèse Université de Nice – Sophia Antipolis. 
+  * Tommasi, A., 1995, Développement de systèmes de décrochements d’échelle continentale dans une lithosphère hétérogène : cas naturels et modélisation numérique, Thèse Université de Montpellier 2.
+  * Vanbrabant, Y., 2001, Évolution géodynamique de la partie orientale de l’allocthtone de l’Ardenne, Thèse Université de Liège.
+  * Vernant, Ph., 2003, Cinématique actuelle et dynamique de l’Iran: GPS et modélisation numérique, Thèse, Université de Montpellier II.
+
+= Master thesis and technical reports =
+
+  * Bellino, D., 1996, Étude de la formation des Apennis : modélisation de la déformation d’un prisme d’accrétion, Mémoire d’Ingénieur Civil Géologue, Université de Liège.
+  * Berger, A., 2001, Étude de la déformation de l'Himalaye du Népal en période intersismique : apport de la modélisation par éléments finis. DEA Dynamique de la Lithosphère, Université de Savoie.
+  * Bonnardot, M.-A., 2003, Modélisation de la genèse des Andes d'Equateur : des accrétions océaniques à la déformation continentale (80 Ma - 0 Ma), DEA Dynamique de la Lithosphère, Université de Savoie.
+  * Chaussard, E., 2007,  Déformation active, vitesse de faille et relations entre mesures géologiques et géodésiques au Tibet, Master 1 Terre-Environnement-Recherche, Université de Montpellier 2.
+  * Douillard, A., 1997, Modélisations numériques de la déformation – Application à un transect de l’avant-pays andin, Rapport d’activité CSNS n° 1 – Elf Aquitaine, Université de Liège. 
+  * Douillard, A., 1997, Modélisations numériques de la déformation – Application à un transect de l’avant-pays andin, Rapport d’activité CSNS n° 2 – Elf Aquitaine, Université de Liège. 
+  * Douillard, A., 1998, Modélisations numériques de la déformation – Application à un transect de l’avant-pays andin, Rapport d’activité CSNS n° 3 – Elf Aquitaine, Université de Liège. 
+  * Gibert, G., 2007, Modélisation 3D de la flexure d'une plaque lithosphérique dans une zone de convergence oblique et implication sur la remontée des roches métamorphiques de ultra haute pression, Master-2R Sciences de la Terre, Université de Grenoble.
+  * Godard V., 2003, Modélisation de l'évolution d'une chaîne de montagne soumise à de la tectonique active et à l'érosion fluviale : Application à l'Himalaya central, DEA Physique de la Terre et Géodynamique ENS.
+  * Hassani, R., D. Jongmans, J. Krings and A. Montjoie, 1995, Modélisation des processus de formation des Apennins, Rapport interne FINA Research, FINA/952, Liège.
+  * Hassani, R., D. Bellino, D. Jongmans and A. Montjoie, 1996, Modelling of the southern Apennines formation at upper crustal scale, Rapport interne FINA Research, FINA/963, Liège.
+  * Hassani, R., D. Bellino, D. Jongmans and A. Montjoie, 1997, Numerical modelling of the southern Apennines formation, Rapport interne FINA Research, FINA/971, Liège.
+  * Indjein, N., 2011, Modélisation numérique du comportement thermo-mécanique à l’interface de subduction Nord Équateur – Sud Colombie, Master 1, Université de Nice – Sophia Antipolis.
+  * Letourmy, Y., 2012, Modélisation numérique des mouvements verticaux au dessus d’une zone de subduction, Master 2, Université de Toulouse.
+  * Monteux, J., 2005, Modélisation mécanique de la déformation crustale sous l'action d'un volcan, Master-2R Sciences de la Terre, Université de Lyon.
+  * Pérouse, E., 2009, Modélisation numérique des déformations actuelles dans la zone Rif-Bétiques et implications géodynamiques, Master 2, Université de Montpellier 2.
+  * Tang, J.-C., 1996, Modélisation numérique de la déformation de la lithosphère au voisinage de l’arc volcanique lors d’une collision « arc-continent » : cas de Taiwan, DEA, Université de Montpellier 2.
+  * Tromme, O., 1998, Étude du phénomène de boudinage dans la région située entre Bastogne et Bertrix : levé de terrain et modélisation numérique, Mémoire de Diplôme de licencié en Sciences Géologiques et Minéralogiques, Université de Liège.
+
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
