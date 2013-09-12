@@ -1,0 +1,31 @@
+#summary Download and Install.
+#labels Featured
+
+
+----
+
+= Download =
+  # [https://drive.google.com/folderview?id=0B_LimAbVq4H_aXZ5Y2JBbEpJRm8&usp=sharing Download folder]
+  # 2D versions: the new [https://docs.google.com/file/d/0B_LimAbVq4H_SkQyNEtGV2tRUnc/edit?usp=sharing 2d6] version or the deprecated ~~[https://docs.google.com/file/d/0B_LimAbVq4H_WEhESkN6ZjZsV1E/edit?usp=sharing 3p4]~~ version
+  # 3D versions: the [https://docs.google.com/file/d/0B_LimAbVq4H_eU1MTEZrRVRnRlk/edit?usp=sharing 3d4] version
+  # Help guide: [https://docs.google.com/file/d/0B_LimAbVq4H_V2JiYUtYTF9RQVU/edit?usp=sharing pdf]
+
+----
+
+= Requirements and =
+
+
+*Download*: The current version includes  2D and 3D programs, some utilities and a visualisation software xadeli. Software packages are available for the 2D code ([WikiSyntax 3p4 release]) and for the 3D code (3d4 release) as zipped tarfiles.
+
+*Operating systems*: Adeli is compiled with Fortran 77 under Linux and can be compiled under other platforms.
+
+*Visualisation*: Xadeli is compiled with c with various X11 librairies under Linux and Unix.
+
+
+= Unix/Linux installation =
+
+  # Create a directory (named X) where you want to install the code;
+  # Get the software package;
+  # Unshrink the code to get a tarfile;
+  # Extract files : tar xvf tarfile_name;
+  # Add the paths  X/bin and  X/com in the  \PATH variable (.bashrc or .cshrc or ...). 
