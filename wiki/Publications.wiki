@@ -1,5 +1,6 @@
 #summary Publications involving Adeli (by authors).
 #labels Featured
+
 = Peer-reviewed articles =
 
   * Bachmann, D., Bouissou, S., Chemenda, A., 2009, Analysis of massif fracturing during Deep-Seated Gravitational Slope Deformation by physical and numerical modeling, Geomorphology 103 (2009) 130–135.
@@ -97,12 +98,3 @@
   * Pérouse, E., 2009, Modélisation numérique des déformations actuelles dans la zone Rif-Bétiques et implications géodynamiques, Master 2, Université de Montpellier 2.
   * Tang, J.-C., 1996, Modélisation numérique de la déformation de la lithosphère au voisinage de l’arc volcanique lors d’une collision « arc-continent » : cas de Taiwan, DEA, Université de Montpellier 2.
   * Tromme, O., 1998, Étude du phénomène de boudinage dans la région située entre Bastogne et Bertrix : levé de terrain et modélisation numérique, Mémoire de Diplôme de licencié en Sciences Géologiques et Minéralogiques, Université de Liège.
-
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
