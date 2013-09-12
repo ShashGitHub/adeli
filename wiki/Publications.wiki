@@ -61,6 +61,8 @@
   * Vernant, P., Hivert, F., Chery, J., Steer, P., Cattin, R., & Rigo, A. , Erosion-induced isostatic rebound triggers extension in low convergent mountain ranges. Geology, 41(4), 467–470. doi:10.1130/G33942.1, 2013.
   * Wang, J.,  Ye, Z.-R. He, J.-K., 2008, Three-dimensional mechanical modeling of large-scale crustal deformation in China constrained by the GPS velocity field, Tectonophysics, 446 (2008) 51–60.
 
+----
+
 = PhD thesis =
 
   * Berger, A., 2004, Propagation de la rupture crustale de l'axe d'un point chaud à la ride océanique: exemple du nord de l'Islande, Thèse de l’Université de Savoie.
@@ -77,6 +79,8 @@
   * Tommasi, A., 1995, Développement de systèmes de décrochements d’échelle continentale dans une lithosphère hétérogène : cas naturels et modélisation numérique, Thèse Université de Montpellier 2.
   * Vanbrabant, Y., 2001, Évolution géodynamique de la partie orientale de l’allocthtone de l’Ardenne, Thèse Université de Liège.
   * Vernant, Ph., 2003, Cinématique actuelle et dynamique de l’Iran: GPS et modélisation numérique, Thèse, Université de Montpellier II.
+
+----
 
 = Master thesis and technical reports =
 
